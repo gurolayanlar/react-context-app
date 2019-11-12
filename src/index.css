@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  height: 5vh;
+  padding-top: 20px;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  width: 5vw;
+  text-align: center;
+  padding-top: 30vh;
+}
+
+.button-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
