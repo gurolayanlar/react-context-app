@@ -1,4 +1,4 @@
 # react-context-app
 React Context
 
-https://ozgunozdemir.com/2019/11/06/react-context/
+https://ozgunozdemir.com/javascript/react-context/
